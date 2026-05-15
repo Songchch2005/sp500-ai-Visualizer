@@ -3,8 +3,9 @@
 A research tool for visually exploring how AI may reshape business models across the S&P 500.  
 This is not an investment recommendation engine. It is a development/research surface for structured comparison.
 
-**Live demo (local): [http://127.0.0.1:8000/](http://127.0.0.1:8000/)**  
-**Live demo (GitHub Pages): `https://songchch2005.github.io/sp500-ai-Visualizer/`**
+**Live demo (public): [https://songchch2005.github.io/sp500-ai-Visualizer/](https://songchch2005.github.io/sp500-ai-Visualizer/)**  
+**Direct demo entry (fallback): [https://songchch2005.github.io/sp500-ai-Visualizer/site/index.html](https://songchch2005.github.io/sp500-ai-Visualizer/site/index.html)**  
+**Local demo (for development): [http://127.0.0.1:8000/](http://127.0.0.1:8000/)**
 
 ---
 
@@ -164,12 +165,21 @@ Open: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 
 ## Deployment (GitHub Pages)
 
-If you want a public live demo link like `jobs`:
+For this repo, publish from `main` + `/(root)`:
 
-1. Push `site/` to your repo
-2. Enable GitHub Pages (branch root or `/docs`)
-3. Set live URL in this README:
+1. Go to repository `Settings` -> `Pages`
+2. Under **Build and deployment**, choose:
+   - **Source**: `Deploy from a branch`
+   - **Branch**: `main`
+   - **Folder**: `/(root)`
+3. Save and wait 1-3 minutes
+4. Open:
    - `https://songchch2005.github.io/sp500-ai-Visualizer/`
+
+Notes:
+- Root `index.html` now redirects to `site/index.html`, so the homepage URL works directly.
+- If Pages cache is still warming up, use the direct URL once:
+  - `https://songchch2005.github.io/sp500-ai-Visualizer/site/index.html`
 
 ---
 
