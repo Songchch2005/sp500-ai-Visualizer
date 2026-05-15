@@ -1,0 +1,23 @@
+# Martin Marietta Materials Inc (MLM)
+
+- Sector: Basic Materials
+- Industry: Building Materials
+- Market cap: $34B
+- Revenue: $6B
+- Employees: 9,600
+- Source: sec_10k
+- Filing date: 2026-02-19
+- Filing lookup: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=916076&type=10-k&owner=exclude&count=40
+- Company URL: https://www.martinmarietta.com
+
+## Business Summary
+
+ITEM 1. BUSINESS 1
+
+## Risk Factors Summary
+
+of this Form 10-K. Patents and Trademarks As of January 31, 2026, the Company owns, has the right to use, or has pending applications for patents issued or pending in the United States and various foreign jurisdictions, as well as trademarks related to its business. The Company believes that its rights under its existing patents, patent applications and trademarks are of value to its operations; however, no one individual patent or trademark, or combination thereof, is material to the conduct of the Company’s business as a whole. Customers The Company’s products are sold principally to commercial customers in private industry. Although large amounts of construction materials are used in public works projects, relatively insignificant sales are made directly to federal, state, county or municipal governments, or their agencies. No material part of the business as a whole, or of any segment of the Company, is dependent upon a single customer or upon a few customers. The loss of any single customer would not have a material adverse effect on the Company. Competition The nature of the Company’s competition varies among its products due to the widely differing amounts of capital necessary to build and maintain production facilities. Crushed stone production from quarries or mines and sand and gravel production by dredging or otherwise are moderately capital intensive. Producing ready mixed concrete involves relatively low capital investment to build a concrete batching plant and acquire delivery trucks. Accordingly, certain market dynamics result in lower barriers to entry in some concrete markets. As a result, depending on the local market, the Company may face competition from small producers as well as large, vertically-integrated companies with facilities in many markets. The Company operates in a highly fragmented industry, including large, public companies and a significant number of small privately-held companies. In 2025, other publicly traded companies among the ten-largest U.S. aggregates producers included the following: • Amrize Ltd. • Arcosa, Inc. • CEMEX S.A.B. de C.V. • CRH plc • Heidelberg Materials AG • Holcim Ltd. • Knife River Corporation • Vulcan Materials Company Due to the localized nature of the industry resulting from the high cost of transportation relative to the price of the product, the Building Materials business primarily operates in smaller, distinct geographic areas with varying market characteristics. The Company believes that its ability to transport materials by rail and waterborne vessels has enhanced its competitive position in the building materials industry. Part I ♦ Item 1 – Business The Specialties business competes with various companies across different geographic and product areas principally on the basis of quality, price, technological advances and technical support for its products. While the revenues of the Specialties business in 2025 were predominantly domestic, a portion was derived from customers located outside the United States. Environmental and Governmental Regulations Overview The Company’s operations are subject to and affected by federal, state and local laws, rules and regulations relating to zoning, land use, mining, air emissions (including carbon dioxide and other greenhouse gases), water use, allocation and discharges, waste management, noise and dust exposure control, reclamation and other environmental, health and safety, and regulatory requirements. Certain of the Company’s operations may occasionally involve the use of substances that are classified as toxic or hazardous within the meaning of these laws and regulations. Environmental operating permits are, or may be, required for certain of the Company’s operations, and such permits are subject to modification, renewal and revocation. Environmental Compliance and Costs The Company regularly monitors and reviews its operations, procedures and policies for compliance with existing laws, rules and regulations, changes
+
+## AI Research Notes
+
+SEC filing pulled successfully. This page contains raw Item 1 and Item 1A excerpts rather than an LLM-compressed memo. Use score.py to translate the filing text into the five AI exposure dimensions.

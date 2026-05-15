@@ -1,0 +1,23 @@
+# Teledyne Technologies Incorporated (TDY)
+
+- Sector: Technology
+- Industry: Scientific & Technical Instruments
+- Market cap: $29B
+- Revenue: $6B
+- Employees: 15,800
+- Source: sec_10k
+- Filing date: 2026-02-20
+- Filing lookup: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1094285&type=10-k&owner=exclude&count=40
+- Company URL: https://www.teledyne.com
+
+## Business Summary
+
+Item 1. Business 1
+
+## Risk Factors Summary
+
+risk factors and uncertainties associated with Teledyne and any forward-looking statements made by us, see the discussion beginning on page 7 of this Annual Report on Form 10-K. In this document, for any references to Note 1 through Note 18 , refer to the Notes to Consolidated Financial Statements in this Annual Report on Form 10-K. i Table of Contents PART I Who We Are Teledyne Technologies Incorporated is a Delaware corporation that provides enabling technologies to sense, analyze and distribute information for industrial growth markets that require advanced technology and high reliability. These markets include aerospace and defense, factory automation, air and water quality environmental monitoring, electronics design and development, oceanographic research, deepwater oil and gas exploration and production, medical imaging and pharmaceutical research. Our products include digital imaging sensors, cameras and systems within the visible, infrared and X-ray spectra, monitoring and control instrumentation for marine and environmental applications, harsh environment interconnects, electronic test and measurement equipment, aircraft information management systems, and defense electronics and satellite communication subsystems. We also supply engineered systems for defense, space, environmental and energy applications. We believe our technological capabilities, innovation and ability to invest in the development of new and enhanced products are critical to obtaining and maintaining leadership in our markets and the industries in which we compete. We became an independent public company effective November 29, 1999. The following description of our business should be read together with “Management’s Discussion and Analysis of Financial Condition and Results of Operations” within Item 7 . of this Form 10-K. Recent Developments Consistent with our strategy, we completed four acquisitions in 2025 and two acquisitions in 2024. The financial results of these acquisitions have been included since the respective date of each acquisition. Our 2025 and 2024 acquisitions were within the Digital Imaging, Instrumentation, and Aerospace and Defense Electronics segments. See Note 3 for additional information about our 2025 and 2024 business acquisitions. Subsequent to the end of the year, we completed one acquisition which will be included within the Instrumentation segment. See Note 18 for additional information. Our Business Segments Our businesses are aligned in four segments: Digital Imaging, Instrumentation, Aerospace and Defense Electronics, and Engineered Systems. Additional financial information about our business segments can be found in Note 4 . Digital Imaging Segment Our Digital Imaging segment includes high-performance sensors, cameras and systems within the visible, infrared, ultraviolet and X-ray spectra for use in industrial, scientific, government, space, defense, security, medical and other applications. We also produce and provide manufacturing services for micro electromechanical systems (“MEMS”) and high-performance, high-reliability semiconductors, including analog-to-digital and digital-to-analog converters, as well as unmanned aerial and ground systems. Through this segment, we provide visible spectrum sensors and digital cameras for industrial machine vision and automated quality control, as well as for medical, research and scientific applications. We provide a range of cooled and uncooled infrared or thermal products, including sensors, camera cores and camera systems based on long wave infrared, mid-wave infrared, and short-wave infrared technologies. Products and applications include space-based imaging, factory condition monitoring, optical and acoustic-based gas leak detection, laboratory research and maritime thermal imaging. We develop high-resolution, low-dose X-ray sensors as well as high-power microwave and high-energy X-ray subsystems for medical, dental and industrial applications. We also provide instrument
+
+## AI Research Notes
+
+SEC filing pulled successfully. This page contains raw Item 1 and Item 1A excerpts rather than an LLM-compressed memo. Use score.py to translate the filing text into the five AI exposure dimensions.

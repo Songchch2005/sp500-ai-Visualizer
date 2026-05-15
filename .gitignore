@@ -1,0 +1,13 @@
+﻿.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+.uv/
+.DS_Store
+Thumbs.db
+_publish/
+.git_broken_backup_*/

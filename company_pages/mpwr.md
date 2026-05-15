@@ -1,0 +1,23 @@
+# Monolithic Power Systems Inc (MPWR)
+
+- Sector: Technology
+- Industry: Semiconductors
+- Market cap: $81B
+- Revenue: $3B
+- Employees: 4,501
+- Source: sec_10k
+- Filing date: 2026-02-27
+- Filing lookup: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1280452&type=10-k&owner=exclude&count=40
+- Company URL: https://www.monolithicpower.com
+
+## Business Summary
+
+Item 1. Business 7 Information about Executive Officers 11
+
+## Risk Factors Summary
+
+Item 1A. Risk Factors.” Except as required by law, we disclaim any duty, and undertake no obligation, to update any forward-looking statements, whether as a result of new information relating to existing conditions, future events or otherwise or to release publicly the results of any future revisions we may make to forward-looking statements to reflect events or circumstances after the date hereof or to reflect the occurrence of unanticipated events. Readers are cautioned not to place undue reliance on such statements, which speak only as of the date of this Annual Report on Form 10-K and entail significant risks. Readers should carefully review future reports and documents that we file from time to time with the Securities and Exchange Commission (the “SEC”), such as our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K. Unless stated otherwise or the context otherwise requires, references to the terms “Monolithic Power Systems,” “MPS,” “Registrant,” the “Company,” “we,” “us,” or “our” as used herein are references to Monolithic Power Systems, Inc. and its consolidated subsidiaries. 6 Table of Contents PART I General Monolithic Power Systems, Inc. is a fabless global company that provides high-performance, semiconductor-based power electronics solutions. Incorporated in 1997, our three core strengths include deep system-level knowledge, strong semiconductor design expertise, and innovative proprietary technologies in the areas of semiconductor processes, system integration, and packaging. These combined advantages enable us to deliver reliable, compact, and monolithic solutions found in storage and computing, enterprise data, automotive, industrial, communications and consumer applications. Our mission is to reduce energy and material consumption to improve all aspects of quality of life and create a sustainable future. We believe that we differentiate ourselves by offering solutions that are more highly integrated, smaller in size, more energy-efficient, more accurate and more reliable with respect to performance specifications and, consequently, more cost-effective than many competing solutions. We plan to continue to introduce new products within our existing product families, as well as new, innovative products that expand our market. We have over 4,500 employees worldwide, with various locations in Asia, Europe and the U.S. Industry and Product Overview Semiconductors comprise the basic building blocks of electronic systems and equipment. Within the semiconductor industry, components can be classified either as discrete devices, such as individual transistors, or integrated circuits (“ICs”), in which a number of transistors and other elements are combined to form a more complicated electronic circuit. ICs can be further divided into three primary categories: digital, analog, and mixed-signal. Digital ICs, such as memory devices and microprocessors, can store or perform arithmetic functions on data that is represented by a series of ones and zeroes. Analog ICs, in contrast, handle real world signals such as temperature, pressure, light, sound, or speed. In addition, analog ICs also perform power management functions, such as regulating or converting voltages, for electronic devices. Mixed-signal ICs combine digital and analog functions onto a single chip and play an important role in bridging real world applications to digital systems. We focus on the market for high performance analog and mixed-signal solutions. High performance products generally are differentiated by functionality and performance factors, which include integration of higher levels of functionality into a single chip or module, greater precision, better power efficiency and density, higher speed, and lower heat and noise. There are several key factors that distinguish the analog and mixed-signal IC markets from digital IC markets. These factors include longer product life cycles, numerous market segments, techno
+
+## AI Research Notes
+
+SEC filing pulled successfully. This page contains raw Item 1 and Item 1A excerpts rather than an LLM-compressed memo. Use score.py to translate the filing text into the five AI exposure dimensions.

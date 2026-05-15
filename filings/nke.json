@@ -1,0 +1,10 @@
+{
+  "source": "seed",
+  "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=320187&type=10-k&owner=exclude&count=40",
+  "form": "seed",
+  "filing_date": "seed",
+  "business": "Nike Inc operates in consumer cyclical within the footwear & accessories category. This is a generic fallback summary because SEC extraction failed and no hand-written seed memo exists yet.",
+  "risk": "Primary risks should be read directly from the filing once extraction is repaired. For now, assume a mix of competitive, regulatory, operational, and capital-allocation risks typical of the sector.",
+  "ai_notes": "This fallback note is intentionally thin. Re-run fetch_filings.py or improve the extractor for a higher-quality company memo before relying on the LLM score.",
+  "source_note": "seed fallback after error: "
+}

@@ -1,0 +1,23 @@
+# Intel Corporation (INTC)
+
+- Sector: Technology
+- Industry: Semiconductors
+- Market cap: $609B
+- Revenue: $54B
+- Employees: 85,100
+- Source: sec_10k
+- Filing date: 2026-01-23
+- Filing lookup: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=50863&type=10-k&owner=exclude&count=40
+- Company URL: https://www.intel.com
+
+## Business Summary
+
+Item 1. Business: General development of business Pages 3 - 5 , 18 Description of business Pages 3 - 24 , 33 , 52 , 72 - 75 Available information Page 2
+
+## Risk Factors Summary
+
+Risk Factors" within Risk Factors. While our IP rights are important to our success, our business as a whole is not significantly dependent on any single patent, copyright or other IP right. Table of Contents Our people are fundamental to our success. Delivering on our strategy and growth ambitions requires attracting, developing and retaining top talent across the world. We strive to create an inclusive workplace where the world's best engineers and technologists can fulfill their dreams and create technology that delights our customers, delivers value for our stockholders and improves the life of every person on the planet. We invest in our highly skilled workforce, which was comprised of 85,100 1 people as of December 27, 2025, by creating practices, programs and benefits that support the rapidly changing world of work and our employees' needs. Cultural Transformation In 2025, we initiated a company-wide cultural transformation designed to enhance agility, accountability and technical focus across our product and operational teams. As part of this effort, we streamlined organizational structures by reducing management layers and simplifying decision-making processes. These changes were implemented to accelerate execution, foster a more responsive workforce and improve alignment with strategic priorities. We placed increased emphasis on technical excellence, disciplined execution and customer impact, reinforcing a culture that prioritizes speed, clarity and innovation. These initiatives are an important element of our strategy and are intended to support long-term competitiveness and operational efficiency as we advance our product and process technology roadmaps and deliver differentiated computing solutions. As part of this transformation, we also evolved our workplace model to strengthen collaboration and execution, with employees generally expected to be on-site at least four days per week. This change is intended to support business priorities and foster vibrant hubs of teamwork and innovation. We believe the benefits of in-person collaboration, including stronger teams, faster decision-making and greater innovation, are essential to our long-term success. Talent Management We continue to see significant competition for talent throughout the semiconductor industry. In 2025, we limited hiring in line with our financial performance and cost-reduction measures and implemented headcount reductions under our 2025 Restructuring Plan. However, our investments to advance both process technology and our product roadmap require focused efforts to attract and retain talent, particularly in technical roles. Our undesired turnover rate 2 was 7.9% in 2025 and 5.9% in 2024. We invest resources to develop the talent needed to remain at the forefront of innovation and make us an employer of choice. We offer training programs and provide rotational assignment opportunities. Our job architecture is designed to help employees create custom learning curricula for building skills and owning their careers. To further support the growth and development of our people, we offer mentoring in our technical community and promote engagement and health and wellness resources with all our people. Through our periodic employee experience survey, pulse surveys and a manager pulse tool, employees can voice their perceptions of the company, their managers, their work experiences and their learning and development opportunities. Our employees' voices are important to enable our culture of continuous improvement, and as a result, we link a portion of our executive and employee performance bonus to metrics focused on activating and empowering our talent through improved morale, engagement and retention. Our business depends on how we engage, manage and reward our people. Our performance management system is designed to support our culture and to increase our focus on disciplined execution. Inclusion is a core element of our values and instrumental to driving
+
+## AI Research Notes
+
+SEC filing pulled successfully. This page contains raw Item 1 and Item 1A excerpts rather than an LLM-compressed memo. Use score.py to translate the filing text into the five AI exposure dimensions.
