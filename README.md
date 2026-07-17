@@ -6,6 +6,7 @@ This is not an investment recommendation engine. It is a development/research su
 **Live demo (public): [https://songchch2005.github.io/sp500-ai-Visualizer/](https://songchch2005.github.io/sp500-ai-Visualizer/)**  
 **Direct demo entry (fallback): [https://songchch2005.github.io/sp500-ai-Visualizer/site/index.html](https://songchch2005.github.io/sp500-ai-Visualizer/site/index.html)**  
 **Local demo (for development): [http://127.0.0.1:8000/](http://127.0.0.1:8000/)**
+<img width="2037" height="1262" alt="image" src="https://github.com/user-attachments/assets/e7a4f16b-387c-4282-b13f-442c626bde53" />
 
 ---
 
